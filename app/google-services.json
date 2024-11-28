@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752566289322",
+    "project_id": "uas-piranti-4feec",
+    "storage_bucket": "uas-piranti-4feec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752566289322:android:da88e30e1fe08446ec61d3",
+        "android_client_info": {
+          "package_name": "com.example.projectuaspiranti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwj8-eMcAVxa7I37sHOUtEqLDK4NGRJwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
